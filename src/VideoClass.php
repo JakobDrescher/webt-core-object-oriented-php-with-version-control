@@ -2,8 +2,8 @@
 declare(strict_types=1);
 
 abstract class Video{
-    string $name;
-    string $source;
-    string $html;
+    protected string $name;
+    protected string $source;
+    protected string $html;
 }
 ?>
