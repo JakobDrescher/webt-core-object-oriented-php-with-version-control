@@ -9,7 +9,7 @@ interface VideoInterface
     public function getHTML(): string;
 
     /**
-     * @return source uniqe identifier of the video
+     * @return source unique identifier of the video
      */
     public function getSource(): string;
 
