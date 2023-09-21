@@ -8,5 +8,4 @@ abstract class VideoClass implements VideoInterface
 {
     protected string $name;
     protected string $source;
-    protected string $html;
 }
