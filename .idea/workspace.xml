@@ -10,6 +10,9 @@
 =======
       <change beforePath="$PROJECT_DIR$/src/VideoClass.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/VideoClass.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/VideoInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/VideoInterface.php" afterDir="false" />
+<<<<<<< HEAD
+>>>>>>> parent of 93f3bcd (removed the implements statement from the abstract class VideoClass because it makes no sense to me)
+=======
 >>>>>>> parent of 93f3bcd (removed the implements statement from the abstract class VideoClass because it makes no sense to me)
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +57,11 @@
       <workItem from="1695280519574" duration="906000" />
       <workItem from="1695281443466" duration="6000" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <workItem from="1695281468646" duration="1036000" />
+=======
+      <workItem from="1695281468646" duration="157000" />
+>>>>>>> parent of 93f3bcd (removed the implements statement from the abstract class VideoClass because it makes no sense to me)
 =======
       <workItem from="1695281468646" duration="157000" />
 >>>>>>> parent of 93f3bcd (removed the implements statement from the abstract class VideoClass because it makes no sense to me)
