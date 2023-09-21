@@ -1,7 +1,7 @@
 <?php
 
 declare(strict_types=1);
-interface Video
+interface VideoInterface
 {
     public function getHTML(): string;
     public function getSource(): string;
