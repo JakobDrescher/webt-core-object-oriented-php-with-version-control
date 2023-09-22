@@ -16,7 +16,7 @@ class VimeoVideo extends VideoClass
      */
     public function getSource(): string
     {
-        // TODO: Implement getSource() method.
+        return $this->source;
     }
 
     /**
