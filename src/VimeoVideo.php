@@ -24,6 +24,6 @@ class VimeoVideo extends VideoClass
      */
     public function getName(): string
     {
-        // TODO: Implement getName() method.
+        return $this->name;
     }
 }
