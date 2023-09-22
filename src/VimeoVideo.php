@@ -8,7 +8,7 @@ class VimeoVideo extends VideoClass
      */
     public function getHTML(): string
     {
-        // TODO: Implement getHTML() method.
+        return '<iframe width="560" height="315" src="https://player.vimeo.com/video/' . $this->source . '" title="' . $this->name . '" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>';
     }
 
     /**
