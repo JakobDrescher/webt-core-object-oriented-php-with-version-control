@@ -1,7 +1,7 @@
 <?php
 
 declare(strict_types=1);
-require 'VideoClass.php';
+require_once 'VideoClass.php';
 
 
 class YoutubeVideo extends VideoClass

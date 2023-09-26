@@ -1,7 +1,7 @@
 <?php
 
 declare(strict_types=1);
-require 'VideoInterface.php';
+require_once 'VideoInterface.php';
 
 
 abstract class VideoClass implements VideoInterface
